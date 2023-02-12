@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/go-chi/chi/v5"
-	"github.com/t0nyandre/go-rest-template/internal/config"
+	"github.com/t0nyandre/tonyandre.co-v2023/internal/config"
 )
 
 func RegisterHandlers(cfg *config.Config) chi.Router {

@@ -1,21 +1,21 @@
 <div align="center">
-    <img src="images/boilerplate-logo.webp" alt="Go Boilerplate with Auth" width="350" height="350" />
+    Reserved for a logo of some sort
 </div>
 
-[![goversion]](https://gitlab.com/t0nyandre/go-boilerplate-oauth2)
-[![goreport]](https://goreportcard.com/report/github.com/t0nyandre/go-boilerplate-oauth2)
+[![goversion]](https://github.com/t0nyandre/tonyandre.co-v2023)
+[![goreport]](https://goreportcard.com/report/github.com/t0nyandre/tonyandre.co-v2023)
 
 <p align="center">
-  This repository is created for the sole purpose of being a working boilerplate for my projects going forward. It's a REST backend created in golang that uses oauth2 for auth.
+  Will give a quick reasoning behind the repository
 </p>
 
 <p align="center">
-    <a href="#go-boilerplate-using-oauth2">Introduction</a> &nbsp;&bull;&nbsp;
+    <a href="#tonyandre.co-2023-edition">Introduction</a> &nbsp;&bull;&nbsp;
     <a href="#12-months-12-projects">The Challenge</a> &nbsp;&bull;&nbsp;
     <a href="#issue">Issue?</a>
 </p>
 
-# Go Boilerplate using Oauth2
+# tonyandre.co 2023 edition
 
 A better introduction into the project
 
@@ -29,14 +29,14 @@ What you can expect from the YouTube channel is 15min long clips of me building 
 I am so excited for this!
 
 ## Issue
-This repository is maintained actively, so if you face any issue or use the repository and want me to add a feature, please raise an issue at [GitHub](https://github.com/t0nyandre/go-boilerplate-oauth2/issues/new) or [GitLab](https://gitlab.com/t0nyandre/go-boilerplate-oauth2/-/issues/new).
+This repository is maintained actively, so if you face any issue or use the repository and want me to add a feature, please raise an issue at [GitHub](https://github.com/t0nyandre/tonyandre.co-v2023/issues/new) or [GitLab](https://gitlab.com/t0nyandre/tonyandre.co-v2023/-/issues/new).
 
 #### Liked the work?
 - Give the repository a star ;-)
-- Consider [buying me a coffee](https://www.buymeacoffee.com/t0nyandre)!
+- Consider [buying me a ko-fi](https://www.ko-fi.com/t0nyandre)!
 - Subscribe to my [Patreon](https://patreon.com/t0nyandre)
+- And I will stream from my [Twitch](https://patreon.com/t0nyandre) and [YouTube](https://youtube.com/@t0nyandre) in the near future!
 
 
-
-[goversion]: https://img.shields.io/github/go-mod/go-version/t0nyandre/go-boilerplate-oauth2.svg
+[goversion]: https://img.shields.io/github/go-mod/go-version/t0nyandre/tonyandre.co-v2023.svg
 [goreport]: https://goreportcard.com/badge/github.com/nanomsg/mangos

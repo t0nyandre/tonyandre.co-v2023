@@ -6,7 +6,7 @@ import (
 
 	"github.com/jmoiron/sqlx"
 	_ "github.com/lib/pq"
-	"github.com/t0nyandre/go-rest-template/internal/config"
+	"github.com/t0nyandre/tonyandre.co-v2023/internal/config"
 	"go.uber.org/zap"
 )
 

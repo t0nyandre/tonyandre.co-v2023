@@ -4,7 +4,7 @@ import (
 	"time"
 
 	"github.com/jmoiron/sqlx"
-	"github.com/t0nyandre/go-rest-template/internal/entity"
+	"github.com/t0nyandre/tonyandre.co-v2023/internal/entity"
 	"go.uber.org/zap"
 )
 

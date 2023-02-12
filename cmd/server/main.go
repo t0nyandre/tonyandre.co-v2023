@@ -6,11 +6,11 @@ import (
 	"net/http"
 
 	"github.com/go-chi/chi/v5"
-	"github.com/t0nyandre/go-rest-template/internal/config"
-	"github.com/t0nyandre/go-rest-template/internal/healthcheck"
-	"github.com/t0nyandre/go-rest-template/internal/user"
-	"github.com/t0nyandre/go-rest-template/pkg/database/postgres"
-	"github.com/t0nyandre/go-rest-template/pkg/logger"
+	"github.com/t0nyandre/tonyandre.co-v2023/internal/config"
+	"github.com/t0nyandre/tonyandre.co-v2023/internal/healthcheck"
+	"github.com/t0nyandre/tonyandre.co-v2023/internal/user"
+	"github.com/t0nyandre/tonyandre.co-v2023/pkg/database/postgres"
+	"github.com/t0nyandre/tonyandre.co-v2023/pkg/logger"
 )
 
 var appConfig = flag.String("config", "./config/local.json", "path to config file")

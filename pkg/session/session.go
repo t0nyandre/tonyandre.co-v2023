@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/t0nyandre/go-boilerplate-oauth2/pkg/utils/encryption"
+	"github.com/t0nyandre/tonyandre.co-v2023/pkg/utils/encryption"
 )
 
 type TokenData struct {

@@ -1,4 +1,4 @@
-module github.com/t0nyandre/go-rest-template
+module github.com/t0nyandre/tonyandre.co-v2023
 
 go 1.19
 
